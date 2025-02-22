@@ -10,6 +10,9 @@
     <label for="aadhar"><b>Aadhar Number</b></label>
     <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
 
+    <label for="aadhar"><b>Father Number</b></label>
+    <input type="text" placeholder="Father Name" name="Father" id="Father" required>
+
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
