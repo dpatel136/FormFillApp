@@ -10,6 +10,9 @@
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
 
+    <label for="mobile"><b>Mobile</b></label>
+    <input type="text" placeholder="Enter Mobile" name="mobile" id="mobile" required>
+
     <label for="aadhar"><b>Aadhar/b></label>
     <input type="text" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
 
